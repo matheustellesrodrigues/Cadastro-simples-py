@@ -17,3 +17,8 @@ while True:
     if opcao == 2: 
         for cadastro in Cadastro:
             print(cadastro)
+    
+    if opcao == 3:
+        print("até logo")
+        break
+    
